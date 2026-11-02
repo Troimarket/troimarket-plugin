@@ -1,0 +1,30 @@
+{
+  "name": "troimarket",
+  "displayName": "troimarket",
+  "version": "0.1.0",
+  "description": "Sell templates, ebooks, 3D print files, prompts, fitness programs, recipes and other digital files from your chat. No monthly fee. Your own store page.",
+  "author": {
+    "name": "troimarket",
+    "email": "support@troimarket.com",
+    "url": "https://troimarket.com"
+  },
+  "homepage": "https://troimarket.com/assistant",
+  "repository": "https://github.com/Troimarket/troimarket-plugin",
+  "license": "MIT",
+  "keywords": [
+    "sell digital products",
+    "templates",
+    "ebook",
+    "3d print files",
+    "ai prompts",
+    "fitness program",
+    "recipes",
+    "store",
+    "marketplace"
+  ],
+  "icon": "./troimarket-icon-192.png",
+  "documentationUrl": "https://troimarket.com/assistant",
+  "supportUrl": "https://troimarket.com/faq",
+  "privacyPolicyUrl": "https://troimarket.com/privacy",
+  "termsOfServiceUrl": "https://troimarket.com/terms"
+}
