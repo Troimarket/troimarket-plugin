@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "troimarket": {
+      "type": "http",
+      "url": "https://us-central1-troimarket-353e7.cloudfunctions.net/mcp"
+    }
+  }
+}
